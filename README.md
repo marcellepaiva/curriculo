@@ -1,1 +1,1 @@
-# curriculo responsivo 
+# https://marcellepaiva.github.io/curriculo/
